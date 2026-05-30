@@ -1,6 +1,6 @@
 ﻿# AZ-Chat
 
-Version: 1.0.1
+Version: 1.0.3
 
 Secure chat app.
 
