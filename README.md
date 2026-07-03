@@ -1,9 +1,9 @@
 # AZ-Chat
 
-Version: 1.0.16
+Version: 1.0.17
 
 Installer: AZ-Chat-Setup.exe
 
-Release notes: Fixes the profile Lock button hanging the app by owning the confirmation prompt from the active profile popup, preventing re-entrant online restarts during the modal lock flow, and keeping the popup unlocked when the user cancels.
+Release notes: Rebuilds Profile with unlockable username lock, local profile password/login, profile picture, custom public display name, previous-name history, cleaner light mode, and encrypted direct voice-call invite/accept/decline handshakes.
 
-SHA-256: 8a4a23ce9e2db5b5cc9806a889d933a4270f9b99c1636dad2dc6ef4f47bf213c
+SHA-256: 57beb4fc2ac865192d847060ec319b0aea75d3b126ab22f6572429974426b0c9
