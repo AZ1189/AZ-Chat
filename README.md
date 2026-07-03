@@ -1,9 +1,9 @@
 # AZ-Chat
 
-Version: 1.0.15
+Version: 1.0.16
 
 Installer: AZ-Chat-Setup.exe
 
-Release notes: Adds crash logging and safer UI/background exception handling, adds a quiet tray icon with restore/settings/exit so AZ-Chat can stay online, simplifies Home, adds Calls and Settings tabs, saves AFK/audio/video/group-call preferences, removes the bottom status/debug bar, and shortens IPv4 AZ handles to 7-character username-derived address codes.
+Release notes: Fixes the profile Lock button hanging the app by owning the confirmation prompt from the active profile popup, preventing re-entrant online restarts during the modal lock flow, and keeping the popup unlocked when the user cancels.
 
-SHA-256: adc48957d2aa4b99583e78deedd1e83cf2a326817d92e618b5ecbd447e302810
+SHA-256: 8a4a23ce9e2db5b5cc9806a889d933a4270f9b99c1636dad2dc6ef4f47bf213c
