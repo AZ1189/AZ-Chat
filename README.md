@@ -1,9 +1,9 @@
 # AZ-Chat
 
-Version: 1.0.17
+Version: 1.0.18
 
 Installer: AZ-Chat-Setup.exe
 
-Release notes: Rebuilds Profile with unlockable username lock, local profile password/login, profile picture, custom public display name, previous-name history, cleaner light mode, and encrypted direct voice-call invite/accept/decline handshakes.
+Release notes: Adds contact profile viewing and contact deletion, fixes saved AZ handle connections by decoding the contact address when no cached endpoint exists, and adds clear connection timeouts for unreachable friends.
 
-SHA-256: 57beb4fc2ac865192d847060ec319b0aea75d3b126ab22f6572429974426b0c9
+SHA-256: 8a9b1d9e8f0336d5eedb660ea282f03c09d50064f6cb5d3a4e06937404e24d42
