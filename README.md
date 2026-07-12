@@ -2,9 +2,9 @@
 
 Public installer-only repository for AZ-Chat.
 
-Version: 1.0.4
+Version: 0.9.0
 Installer: AZ-Chat-Setup.exe
-Release notes: Version 1.0.4. Publishes the next +0.0.1 installer refresh for all AZ apps so AZ Manager can fetch current builds, with installer-only GitHub releases and source code kept local-only.
-SHA-256: 0AE34A39F0995296CB1B2E20A5009907BF05E153BB0FCD84288EA3481F82D35B
+Size: 51,709,024 bytes
+SHA-256: ccbbd5e2ad1331374c13c479633c310d8e9b8bd9a323e676e71a21a59586e3b7
 
 Source code stays local-only and is not published in this repository.
